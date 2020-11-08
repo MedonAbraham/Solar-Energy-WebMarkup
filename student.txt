@@ -1,0 +1,4 @@
+Student name: Medon Abraham
+Student number: 666976
+Student class: IT1A
+URL student GitHub repository: https://github.com/MedonAbraham666976/Medon-Abraham-666976.git
